@@ -11,7 +11,7 @@ spec:
   template:
     metadata:
       labels: 
-        app: mongodb
+        app: mongodb 
     spec: 
       containers:
       - name: mon
